@@ -1,11 +1,11 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
+  font-family: Times, "Times New Roman", Georgia, serif;
+  line-height: 2;
+  font-weight: 600;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: rgb(0, 0, 0);
+  background-color: #d8caf7;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -43,7 +43,8 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: white;
+  color: black;
   cursor: pointer;
   transition: border-color 0.25s;
 }
